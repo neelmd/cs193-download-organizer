@@ -28,5 +28,6 @@ Custom categories, a move log, and an undo command.
 - [Matrix](docs/eisenhower-matrix.md): which features to build, postpone, or leave out.
 - [Build plan](docs/build-plan.md): eight milestones and their dates.
 - [Diagram](docs/system-diagram.png): the steps the script will follow.
+- [Diagram source](docs/system-diagram.excalidraw): the editable Excalidraw file.
 - [Project notes](docs/project-explained.md): an example and definitions of the commands.
 - `tests/`: test instructions and sample files.

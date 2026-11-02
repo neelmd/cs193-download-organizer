@@ -65,6 +65,8 @@ Each milestone ends with a Git commit.
 
 ![Download Organizer system diagram](docs/system-diagram.png)
 
+[Diagram source](docs/system-diagram.excalidraw).
+
 ## 3.1 Public repository
 
 https://github.com/neelmd/cs193-download-organizer
