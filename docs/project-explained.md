@@ -52,7 +52,7 @@ The script ignores subfolders, so a second run will leave the category folders a
 | tr | Changes characters. I will use it to make extensions lowercase. |
 | printf | Prints text in the terminal. |
 | Git commit | A saved version of the project. |
-| MVP | The first useful version of the project. |
+| Minimum Viable Product (MVP) | The first useful version of the project. |
 
 ## Choices
 

@@ -1,6 +1,6 @@
 # Download Organizer - Eisenhower Matrix
 
-### Do - first version (MVP)
+### Do - Minimum Viable Product (MVP)
 
 - Sort files from one folder into four categories.
 - Preview the moves. Leave the files and folders unchanged.

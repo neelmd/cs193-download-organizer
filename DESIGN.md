@@ -12,7 +12,7 @@ I will write a Bash script that sorts files from a chosen folder into Documents,
 
 ## 2.1 Eisenhower Matrix
 
-### Do - first version (MVP)
+### Do - Minimum Viable Product (MVP)
 
 - Sort files from one folder into four categories.
 - Preview the moves. Leave the files and folders unchanged.
@@ -64,8 +64,6 @@ Each milestone ends with a Git commit.
 ## 2.4 System diagram
 
 ![Download Organizer system diagram](docs/system-diagram.png)
-
-[Editable Excalidraw source](docs/system-diagram.excalidraw).
 
 ## 3.1 Public repository
 
