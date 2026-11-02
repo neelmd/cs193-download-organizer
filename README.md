@@ -1,10 +1,10 @@
 # Download Organizer
 
-Downloads can pile up in one folder. This Bash script will sort them by file type and preview the moves.
+Downloads can pile up in one folder. This Bash script will organize them into project folders and preview the moves.
 
 ## Minimum Viable Product (MVP)
 
-- Sort files into Documents, Images, Archives, and Other.
+- Sort downloads into matching project folders based on filename keywords and regular expressions.
 - Preview moves. Use --apply to move files.
 - Skip existing destination names.
 - Leave hidden files, subfolders, and symbolic links alone.
