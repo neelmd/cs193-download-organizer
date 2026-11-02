@@ -1,30 +1,22 @@
 # Download Organizer
 
-## Goal
-
-Organize downloads so files are easier to find.
+Downloads can pile up in one folder. This Bash script will sort them by file type and preview the moves.
 
 ## MVP
 
 - Sort files into Documents, Images, Archives, and Other.
-- Preview moves. Move files only with --apply.
+- Preview moves. Use --apply to move files.
 - Skip existing destination names.
-- Ignore hidden files, subfolders, and symbolic links.
-- Print a summary after each run.
+- Leave hidden files, subfolders, and symbolic links alone.
 
 ## Tech stack
 
-Bash on macOS. Commands: `mkdir -p`, `mv -n`, `tr`, and `printf`. Files stay in local folders.
+Bash on macOS: `mkdir -p`, `mv -n`, `tr`, and `printf`. Files stay in local folders.
 
 ## Future plans
 
-- Custom categories and file types.
-- A text log of file moves.
-- An undo command.
+Custom categories, a move log, and an undo command.
 
 ## Documents
 
-- [Design PDF](docs/design.pdf)
-- [Eisenhower matrix](docs/eisenhower-matrix.md)
-- [Build plan](docs/build-plan.md)
-- [Diagram](docs/system-diagram.png) and [Excalidraw file](docs/system-diagram.excalidraw)
+[Design PDF](docs/design.pdf) | [Matrix](docs/eisenhower-matrix.md) | [Build plan](docs/build-plan.md) | [Diagram](docs/system-diagram.png) | [Excalidraw file](docs/system-diagram.excalidraw)
