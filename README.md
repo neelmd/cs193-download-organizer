@@ -17,6 +17,10 @@ Bash on macOS: `mkdir -p`, `mv -n`, `tr`, and `printf`. Files stay in local fold
 
 Custom categories, a move log, and an undo command.
 
+## Diagram
+
+![Download Organizer flowchart](docs/system-diagram.png)
+
 ## Files
 
 - [DESIGN.md](DESIGN.md): the full project plan.
