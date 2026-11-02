@@ -19,4 +19,4 @@ Custom categories, a move log, and an undo command.
 
 ## Documents
 
-[Design PDF](docs/design.pdf) | [Matrix](docs/eisenhower-matrix.md) | [Build plan](docs/build-plan.md) | [Diagram](docs/system-diagram.png) | [Excalidraw file](docs/system-diagram.excalidraw)
+[Design PDF](docs/design.pdf) | [Matrix](docs/eisenhower-matrix.md) | [Build plan](docs/build-plan.md) | [Diagram](docs/system-diagram.png) 
